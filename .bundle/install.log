@@ -1,0 +1,13 @@
+# Logfile created on 2014-02-06 19:19:02 -0800 by logger.rb/44203
+I, [2014-02-06T19:19:02.597183 #42801]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/amorphid/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-06T19:19:02.605508 #42801]  INFO -- : 0:  rspec-core (2.14.7) from /Users/amorphid/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rspec-core-2.14.7.gemspec
+I, [2014-02-06T19:19:02.606230 #42801]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/amorphid/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-02-06T19:19:02.606817 #42801]  INFO -- : 0:  rspec-mocks (2.14.5) from /Users/amorphid/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rspec-mocks-2.14.5.gemspec
+I, [2014-02-06T19:19:02.607499 #42801]  INFO -- : 0:  rspec (2.14.1) from /Users/amorphid/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rspec-2.14.1.gemspec
+I, [2014-02-06T19:19:02.608145 #42801]  INFO -- : 0:  bundler (1.5.1) from /Users/amorphid/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
+I, [2014-02-06T19:19:33.021824 #42849]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/amorphid/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-06T19:19:33.022513 #42849]  INFO -- : 0:  rspec-core (2.14.7) from /Users/amorphid/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rspec-core-2.14.7.gemspec
+I, [2014-02-06T19:19:33.023020 #42849]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/amorphid/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-02-06T19:19:33.023509 #42849]  INFO -- : 0:  rspec-mocks (2.14.5) from /Users/amorphid/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rspec-mocks-2.14.5.gemspec
+I, [2014-02-06T19:19:33.023954 #42849]  INFO -- : 0:  rspec (2.14.1) from /Users/amorphid/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rspec-2.14.1.gemspec
+I, [2014-02-06T19:19:33.024288 #42849]  INFO -- : 0:  bundler (1.5.1) from /Users/amorphid/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
